@@ -1,4 +1,4 @@
-# Linear Regression with one variable to predict the profit based on (size,bedrooms)  
+# Linear Regression with two variable to predict the profit based on (size,bedrooms)  
 ## The code is divided into several parts :
 * Read and plot the data.
 * Separate the data into training and testing. 
